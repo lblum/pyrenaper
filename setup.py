@@ -20,7 +20,7 @@ setuptools.setup(
     install_requires=["attrs==21.2.0",
                       "certifi==2021.5.30",
                       "chardet==3.0.4",
-                      "idna==2.8",
+                      "idna==2.7",
                       "iniconfig==1.1.1",
                       "packaging==20.9",
                       "Pillow==8.2.0",
