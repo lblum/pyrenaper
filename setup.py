@@ -30,7 +30,7 @@ setuptools.setup(
                       "pytest==6.2.4",
                       "requests==2.21.0",
                       "toml==0.10.2",
-                      "urllib3==1.24",
+                      "urllib3==1.26.5",
                       "coverage",
                       "zxing"],
     include_package_data=True,
