@@ -14,7 +14,7 @@ PDF417_FORMAT_SETTINGS = {"formats": ["jpg",
 SELFIE_FORMAT_SETTINGS = {"formats": ["jpg",
                                       "jpeg"],
                           "min_length": 300,
-                          "max_length": 900,
+                          "max_length": 2700,
                           "min_height": 720,
                           "max_height": 720}
 
